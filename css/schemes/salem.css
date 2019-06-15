@@ -1,0 +1,120 @@
+a,
+.i-check.i-check-stroke.checked:before,
+.comment .comment-review-rate,
+.footer-list > li > a:hover,
+.text-color,
+.thumb-caption-price > span.thumb-caption-price-discounted,
+.blog-thumb:hover .blog-thumb-title,
+.dropit-open .nav-drop-title {
+  color: #12a641;
+}
+.banner-btn,
+.thumb-plus,
+.bg-color,
+.shopping-cart-counter,
+.search-dialog-link.active,
+.search-dialog-link.active:hover,
+.sale-point-icon,
+.product-rating > li.rated,
+.category-filter-full-page .btn-group-sizes .btn.active,
+.category-accordion .active > .panel-title > a,
+.category-accordion-sizes .btn.active,
+.category-pagination .pagination > li.active > a,
+.category-pagination .pagination > li.active > a:hover,
+.category-sidebar-white .category-items-list a:hover,
+.category-sidebar-white .category-items-list li.active a,
+.product-review-rating > li.rated,
+.newsletter-area-icon,
+.newsletter-area-submit,
+.btn-primary,
+.btn-ghost.btn-primary:hover,
+.thumb-icon-quick-view,
+.thumb-info-block-rating > li.rated,
+.thumb-caption-rating > li.rated,
+.thumb-to-cart,
+.thumb-quick-view:hover,
+.thumb-banner-btn:hover,
+.slimmenu > li.active a,
+.slimmenu.slimmenu-collapsed li ul li a:hover,
+.irs-diapason,
+.nav-drop > .nav-drop-menu > li > a:hover,
+.i-check.checked,
+.i-radio.checked,
+.thumb-labels > li,
+.category-sidebar-container .category-items-list li.active a,
+.category-sidebar-container .category-items-list a:hover,
+.story-box-color,
+.navbar-main .navbar-brand,
+.navbar-main .navbar-brand:hover,
+.navbar-main .navbar-brand:active,
+.navbar-main .navbar-brand:visited,
+.box-item-color,
+.thumb-hover-block-price .thumb-hover-block-price-discounted,
+.dropit .dropit-submenu > li > a:hover {
+  background: #12a641;
+}
+a:hover,
+.product-rating-group > .btn.active {
+  color: #0e8534;
+}
+.product-tabs .nav-tabs > li.active > a,
+.category-filter-full-page .btn-group-sizes .btn.active,
+.category-accordion-sizes .btn.active,
+.category-pagination-white .pagination > li.active > a,
+.newsletter-area-input:focus,
+.newsletter-container .newsletter-area-input:focus,
+.btn-ghost.btn-primary,
+.thumb-banner-btn:hover,
+.i-check.hover,
+.i-check.checked,
+.i-radio.hover,
+.i-radio.checked,
+.main-footer,
+.navbar-main .dropdown-menu,
+.main-footer-full {
+  border-color: #12a641;
+}
+.form-control:focus {
+  border-color: #22e761;
+}
+.btn-primary {
+  border-color: #10953b;
+}
+.btn-primary:hover,
+.btn-primary:focus {
+  background: #10953b;
+}
+.btn-primary:hover,
+.btn-primary:focus {
+  border-color: #0e8534;
+}
+.thumb-icon-quick-view:hover {
+  background: #119e3e;
+}
+.thumb-to-cart:hover,
+.thumb-plus:hover {
+  background: #0f8d37;
+}
+.irs-slider {
+  background: #18e158;
+}
+.section-title {
+  background: #18843a;
+}
+.banner:hover .banner-mask {
+  background: #03190a;
+}
+@media (min-width:992px) {
+  .navbar-main .navbar-nav > li:hover > a {
+    background: #12a641;
+  }
+}
+.section-title-white {
+  background: #fff;
+}
+.section-title-gray {
+  background: #ededed;
+}
+.box-item:hover .box-item-mask {
+  background: #042a10;
+}
